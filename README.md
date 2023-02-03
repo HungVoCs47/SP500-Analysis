@@ -27,4 +27,4 @@ The stock price is predicted base on the ticker which user entered. Furthermore,
 
 |   Dataset  | Download |
 | --------| -------- |
-| Stock     | [IAM.tar.gz](https://layoutlm.blob.core.windows.net/trocr/dataset/IAM.tar.gz) |
+| Stock     | [S&P500.csv](https://github.com/HungVoCs47/SP500-Analysis/blob/main/data/S%26P500-cleaned_returns_all.csv) |
