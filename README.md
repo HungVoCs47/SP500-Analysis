@@ -12,4 +12,4 @@ The stock price is predicted base on the ticker which user entered. Furthermore,
 ## How to run the project?
 1) Clone or download this repository to your local machine.
 2) Install all the libraries mentioned in the requirements.txt file with the command pip install -r requirements.txt
-3) Open your terminal/command prompt from your project directory and run the file dashboard.py by executing the command streamlit run dashboard.py
+3) Open your terminal/command prompt from your project directory and run the file `dashboard.py` by executing the command `streamlit run dashboard.py`
