@@ -14,3 +14,5 @@ The stock price is predicted base on the ticker which user entered. Furthermore,
 2) Install all the libraries mentioned in the requirements.txt file with the command pip install -r requirements.txt
 3) Open your terminal/command prompt from your project directory and run the file `dashboard.py` by executing the command `streamlit run dashboard.py`
 4) Go to your browser and type http://localhost:8501 in the address bar.
+
+## Architecture
