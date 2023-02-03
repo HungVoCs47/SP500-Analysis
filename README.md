@@ -16,4 +16,4 @@ The stock price is predicted base on the ticker which user entered. Furthermore,
 4) Go to your browser and type http://localhost:8501 in the address bar.
 
 ## Architecture
-https://github.com/HungVoCs47/SP500-Analysis/blob/main/image/Screenshot%202023-02-03%20154744.png
+![image](https://github.com/HungVoCs47/SP500-Analysis/blob/main/image/Screenshot%202023-02-03%20154744.png)
