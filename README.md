@@ -7,4 +7,4 @@
 A system that predict stock price trend of SP500 companies using deep learning architecture.
 
 ## Overview
-The stock price is predicted base on the ticker which user entered. Furthermore, the system returns the most N affected stock price which user entered. 
+The stock price is predicted base on the ticker which user entered. Furthermore, the system returns the most N affected stock price which user entered. The detail of the data is dowloaded from http://en.wikipedia.org/wiki/List_of_S%26P_500_companies
