@@ -23,4 +23,4 @@ The stock price is predicted base on the ticker which user entered. Furthermore,
 ## Fine-tuning and evaluation
 |   Model  | Download |
 | -------- | -------- |
-| LSTM-SMALL    | [trocr-small-handwritten.pt](https://layoutlm.blob.core.windows.net/trocr/model_zoo/fairseq/trocr-small-handwritten.pt) |
+| LSTM-SMALL    | [LSTM_small_prediction.pt](https://github.com/HungVoCs47/SP500-Analysis/blob/main/pretrain/LSTM_1400.pt) |
