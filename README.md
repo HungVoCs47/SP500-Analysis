@@ -20,7 +20,7 @@ The stock price is predicted base on the ticker which user entered. Furthermore,
 
 
 
-## Fine-tuning and evaluation
+## Pretrain model and dataset
 |   Model  | Download |
 | -------- | -------- |
 | LSTM-SMALL    | [LSTM_small_prediction.pt](https://github.com/HungVoCs47/SP500-Analysis/blob/main/pretrain/LSTM_1400.pt) |
@@ -28,3 +28,6 @@ The stock price is predicted base on the ticker which user entered. Furthermore,
 |   Dataset  | Download |
 | --------| -------- |
 | Stock     | [S&P500.csv](https://github.com/HungVoCs47/SP500-Analysis/blob/main/data/S%26P500-cleaned_returns_all.csv) |
+
+## An Finetuning example
+Please see detials in [pic_inference.py](https://github.com/microsoft/unilm/blob/master/trocr/pic_inference.py).
