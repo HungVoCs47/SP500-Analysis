@@ -17,3 +17,6 @@ The stock price is predicted base on the ticker which user entered. Furthermore,
 
 ## Architecture
 ![image](https://github.com/HungVoCs47/SP500-Analysis/blob/main/image/Screenshot%202023-02-03%20154744.png)
+
+
+## Fine-tuning and evaluation
