@@ -20,3 +20,7 @@ The stock price is predicted base on the ticker which user entered. Furthermore,
 
 
 ## Fine-tuning and evaluation
+## Fine-tuning and evaluation
+|   Model  | Download |
+| -------- | -------- |
+| TrOCR-Small-IAM    | [trocr-small-handwritten.pt](https://layoutlm.blob.core.windows.net/trocr/model_zoo/fairseq/trocr-small-handwritten.pt) |
