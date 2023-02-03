@@ -30,4 +30,4 @@ The stock price is predicted base on the ticker which user entered. Furthermore,
 | Stock     | [S&P500.csv](https://github.com/HungVoCs47/SP500-Analysis/blob/main/data/S%26P500-cleaned_returns_all.csv) |
 
 ## An Finetuning example
-Please see detials in [pic_inference.py](https://github.com/microsoft/unilm/blob/master/trocr/pic_inference.py).
+Please see detials in [pic_inference.py]([https://github.com/microsoft/unilm/blob/master/trocr/pic_inference.py](https://github.com/HungVoCs47/SP500-Analysis/blob/main/test.ipynb)).
