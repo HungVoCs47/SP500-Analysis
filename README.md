@@ -4,4 +4,4 @@
 ![Frontend](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
 ![Frontend](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 
-A system that predict stock price trend of SP500 companies.
+A system that predict stock price trend of SP500 companies using deep learning architecture.
