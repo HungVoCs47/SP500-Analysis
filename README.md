@@ -24,3 +24,7 @@ The stock price is predicted base on the ticker which user entered. Furthermore,
 |   Model  | Download |
 | -------- | -------- |
 | LSTM-SMALL    | [LSTM_small_prediction.pt](https://github.com/HungVoCs47/SP500-Analysis/blob/main/pretrain/LSTM_1400.pt) |
+
+|   Dataset  | Download |
+| --------| -------- |
+| Stock     | [IAM.tar.gz](https://layoutlm.blob.core.windows.net/trocr/dataset/IAM.tar.gz) |
