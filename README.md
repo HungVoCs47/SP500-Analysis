@@ -11,9 +11,8 @@ The stock price is predicted base on the ticker which user entered. Furthermore,
 
 ## How to run the project?
 1) Clone or download this repository to your local machine.
-2) Install all the libraries mentioned in the requirements.txt file with the command pip install -r requirements.txt
-3) Open your terminal/command prompt from your project directory and run the file `dashboard.py` by executing the command `streamlit run dashboard.py`
-4) Go to your browser and type http://localhost:8501 in the address bar.
+2) Open your terminal/command prompt from your project directory and run the file `dashboard.py` by executing the command `streamlit run dashboard.py`
+3) Go to your browser and type http://localhost:8501 in the address bar.
 
 ## Architecture
 ![image](https://github.com/HungVoCs47/SP500-Analysis/blob/main/image/Screenshot%202023-02-03%20154744.png)
