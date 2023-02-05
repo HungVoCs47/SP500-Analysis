@@ -29,4 +29,4 @@ The stock price is predicted base on the ticker which user entered. Furthermore,
 | Stock     | [S&P500.csv](https://github.com/HungVoCs47/SP500-Analysis/blob/main/data/S%26P500-cleaned_returns_all.csv) |
 
 ## An Finetuning example
-Please see detales in [train_finetune](https://github.com/HungVoCs47/SP500-Analysis/blob/main/test.ipynb)
+Please see details in [train_finetune](https://github.com/HungVoCs47/SP500-Analysis/blob/main/test.ipynb)
